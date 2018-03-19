@@ -87,6 +87,7 @@ $(function(){
     optionName:Value,
     optionName:Value...
   });
+  label.addLabelAndBox();
 });
 ```
 
