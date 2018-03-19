@@ -1,5 +1,4 @@
-# labelOpenClose
-
+labelOpenClose
 ==========
 
 You can easily add jQuery based opening / closing box.  
